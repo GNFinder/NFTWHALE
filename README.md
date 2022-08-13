@@ -1,4 +1,4 @@
-# NFTWHALE
+NFTWHALE
 
 With this DAPP, you can become an NFTWHALE and join hundreds of other NFTWHALE's who are profiting every day.
 
@@ -11,7 +11,7 @@ View all transactions performed by the linked addresses or some other NFT owner.
 Real-time transactions in the DApp provide updates on NFT ownership and profits.
 There are and will be many more features.
 
-<<<TRY ME BUTTON>>>
+[[[TRY ME BUTTON]]]
 
 Current Development Characteristics:
 
@@ -35,4 +35,4 @@ Web3 is gaining control.
 
 Originally known as the NFTWHALEWATCHER, this is a demonstration of simple blockchain interactions using a modern UI and metamask connectivity.
 
-IAmJay, Thank you.  
+IAmJay, Thank you.
